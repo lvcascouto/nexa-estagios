@@ -1,47 +1,67 @@
 <div align="center">
 
-# Programa de Estágios • Nexa
+# Programa de Estágios // Nexa
 
-**Hotsite para divulgação de estágios em eventos de empregabilidade**
+**Hotsite para divulgação de oportunidades de estágio em eventos de empregabilidade**
 
-*Desenvolvido em colaboração com Larissa Nunes para uma feira de carreiras*
+*Uma solução autoral desenvolvida para atender a uma necessidade real em eventos de carreira*
 
 [![Status](https://img.shields.io/badge/status-concluído-e8e4de?style=flat-square&labelColor=3437e6&color=1c1b2e)]()&nbsp;
-[![Finalidade](https://img.shields.io/badge/finalidade-projeto%20autoral-e8e4de?style=flat-square&labelColor=orange&color=1c1b2e)]()&nbsp;
+[![Finalidade](https://img.shields.io/badge/finalidade-solução%20autoral-e8e4de?style=flat-square&labelColor=f59e0b&color=1c1b2e)]()&nbsp;
 [![Licença](https://img.shields.io/badge/licença-MIT-e8e4de?style=flat-square&labelColor=ef4444&color=1c1b2e)](./LICENSE)
 
 </div>
 
 <p align="center">
-  <a href="#projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#sobre-o-projeto">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#funcionalidades">Funcionalidades</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#aprendizados">Aprendizados</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#estrutura">Estrutura</a>
 </p>
 
-<h2 id="projeto">PROJETO</h2>
+<br>
 
-Página desenvolvida para divulgação temporária de oportunidades de estágio da Nexa durante eventos de empregabilidade. O objetivo foi entregar uma solução rápida, clara e acessível, atraindo candidatos para vagas remanescentes e facilitando o acesso às oportunidades diretamente pelo celular — via QR Code distribuído no evento.
+## SOBRE O PROJETO
 
-🌐 [Acesse o site](https://estagiosnexa.vercel.app/)
+Hotsite desenvolvido para a divulgação temporária de oportunidades de estágio da **Nexa** durante eventos de empregabilidade.
 
-<h2 id="funcionalidades">FUNCIONALIDADES</h2>
+O projeto foi criado em colaboração com **Larissa Nunes**, com o objetivo de oferecer uma solução rápida, clara e acessível para apresentar a empresa, divulgar vagas remanescentes e facilitar o acesso dos candidatos às oportunidades disponíveis.
+
+A página foi pensada especialmente para utilização em eventos presenciais, permitindo que os participantes acessassem as informações diretamente pelo celular por meio de um **QR Code distribuído no local**.
+
+🌐 [Acesse o site](https://lvcascouto.github.io/nexa-estagios/)
+
+## FUNCIONALIDADES
 
 - **Apresentação da empresa** — introdução à cultura e ao programa de estágios da Nexa
-- **Links diretos** — acesso ao PDF de vagas e ao formulário de inscrição via Google Forms
-- **Acesso por QR Code** — página otimizada para abertura rápida pelo celular no evento
-- **Layout responsivo** — interface adaptada para todos os dispositivos
+- **Divulgação de oportunidades** — acesso direto ao documento com as vagas disponíveis
+- **Inscrição online** — direcionamento para o formulário de candidatura via Google Forms
+- **Acesso por QR Code** — acesso rápido pelo celular durante os eventos
+- **Layout responsivo** — interface adaptada para diferentes dispositivos
+- **Experiência objetiva** — organização das informações para facilitar a consulta e a tomada de ação
 
-<h2 id="tecnologias">TECNOLOGIAS</h2>
+## APRENDIZADOS
+
+Durante o desenvolvimento, o projeto contribuiu para a prática de:
+
+- Criação de uma solução digital orientada a uma necessidade real
+- Estruturação de uma interface com foco em clareza e conversão
+- Desenvolvimento de páginas responsivas para diferentes dispositivos
+- Organização de conteúdos e chamadas para ação
+- Publicação de um projeto utilizando a Vercel
+- Colaboração na construção de uma solução para um contexto profissional
+
+## TECNOLOGIAS
 
 | Tecnologia | Uso |
 |---|---|
 | HTML5 | Estrutura semântica e acessível |
 | CSS3 | Estilos, animações sutis e responsividade |
-| Git/Github | Versionamento de código |
-| Vercel | Deploy do projeto |
+| Git/GitHub | Versionamento de código |
+| Vercel | Deploy e hospedagem do projeto |
 
-<h2 id="estrutura">ESTRUTURA</h2>
+## ESTRUTURA
 
 ```
 nexa-estagios/
@@ -57,12 +77,12 @@ nexa-estagios/
 
 ---
 
-<h2>LICENÇA</h2>
+## LICENÇA
 
 Este projeto está licenciado sob a licença MIT.
 Veja o arquivo [LICENSE](./LICENSE) para mais detalhes.
 
-<h2>AUTOR</h2>
+## AUTOR
 
-Desenvolvido por [Lucas Couto](https://linkedin.com/in/lucas-coutoti).  
-Conheça meu trabalho em [Lucas Code](https://bio.site/lucascode).
+Desenvolvido por [Lucas Couto](https://linkedin.com/in/lucascouto-dev).  
+Conheça meu trabalho em [Lucas Code](https://lvcascode.com.br).
