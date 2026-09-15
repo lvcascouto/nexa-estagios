@@ -59,7 +59,7 @@ Durante o desenvolvimento, o projeto contribuiu para a prática de:
 | HTML5 | Estrutura semântica e acessível |
 | CSS3 | Estilos, animações sutis e responsividade |
 | Git/GitHub | Versionamento de código |
-| Vercel | Deploy e hospedagem do projeto |
+| Vercel | Deploy e hospedagem do projeto (Atualmente é via GitHub Pages) |
 
 ## ESTRUTURA
 
